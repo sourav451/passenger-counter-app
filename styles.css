@@ -11,12 +11,13 @@ button{
     color: white;
     font-weight: bold;
     width: 200px;
-    margin-bottom: 5px;
-    border-radius: 5px;
+    margin-bottom: 4px;
+    border-radius: 4px;
 }
 #increment-btn{
     background: darkred;
 }
 #save-btn{
     background: green;
+
 }
